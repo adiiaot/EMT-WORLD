@@ -1,0 +1,26 @@
+		EMT WORLD SITE REPORT
+
+-----------------------------------SITEMAP----------------------------
+* HEADER *  --*NAVBAR*                   HEADER
+
+* .home *            -----------------
+
+* .our-process *
+
+*.services *
+ 
+* .other-services *                       MAIN
+
+* .Trust *
+
+* .newsletter *
+
+* .about *  ------------------------------
+
+* FOOTER * ---* copyright *                FOOTER 
+--------------------------------------------------------------------------- 
+--------------------------------------------------------------
+
+*Always keep site up to date by changing tHe social links*
+* Renew HOSTING PLANS to keep  site ONLINE*
+*Call me if there is any issue *
