@@ -1,3 +1,7 @@
+Access the website using this link 
+
+https://emtworld.netlify.app
+
 <center> EMT WORLD is an online service processing website created to enable students get access to campus facilities and helps them make payments to various sectors in the Campus ground such as 
 1. Hostel Accomodation fee payments
 2. Online Registrations and
