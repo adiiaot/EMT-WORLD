@@ -81,7 +81,7 @@ header {
     z-index: 100;
 }
 .home {
-    background: linear-gradient(rgba(0, 0, 0, 0.704), rgba(0, 0, 0, 0.681)), url(/Assets/images/background.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.704), rgba(0, 0, 0, 0.681)), url(Assets/images/background.jpg);
     background-position: center;
    background-size: cover;
    background-repeat: no-repeat;
